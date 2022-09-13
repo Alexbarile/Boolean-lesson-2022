@@ -1,0 +1,119 @@
+body{
+  background-image: url(background.jpg);
+  background-size: 105%;
+}
+
+
+.container{
+  width: 51%;
+  margin: auto;
+  margin-top: 5%;
+  margin-bottom: 8%;
+  background-color: black;
+  opacity: 60%;
+  border-radius: 4%;
+}
+
+
+.Lim{
+  width: 25%;
+  text-align: center;
+  padding-top: 9%;
+}
+
+.Logo-text{
+  font-size: 22px;
+  font-family: arial;
+  color: lightgreen;
+  margin: 1%;
+}
+
+.navigazione{
+  padding: 1%;
+  background-color: lightgreen;
+}
+
+
+.gino{
+  display: inline-block;
+  color: white;
+  font-family: sans-serif;
+  font-size: 115%;
+  margin-bottom: 0%;
+}
+
+.freccia{
+  color: white;
+}
+
+.indirizzofirst{
+  display: inline-block;
+  color: white;
+  font-family: monospace;
+  margin-top: 1%;
+  margin-bottom: 0%;
+}
+
+.livellobatteria{
+  font-family: monospace;
+  color: white;
+  margin: 0%;
+}
+
+.barrafirst{
+  background-color: beige;
+  color: beige;
+  margin: 0%;
+  border-radius: 5px;
+  width: 40%;
+}
+
+.mike{
+  display: inline-block;
+  color: white;
+  font-family: sans-serif;
+  font-size: 115%;
+  margin-bottom: 0%;
+  margin-top: 4%;
+}
+
+.indirizzosecond{
+  display: inline-block;
+  color: white;
+  font-family: monospace;
+  margin-top: 1%;
+  margin-bottom: 0%;
+}
+
+.barrasecond{
+  background-color: orange;
+  color: orange;
+  margin: 0%;
+  border-radius: 5px;
+  width: 65%;
+}
+
+.fede{
+    display: inline-block;
+    color: white;
+    font-family: sans-serif;
+    font-size: 115%;
+    margin-bottom: 0%;
+    margin-top: 4%;
+}
+
+.indirizzothird{
+  display: inline-block;
+  color: white;
+  font-family: monospace;
+  margin-top: 1%;
+  margin-bottom: 0%;
+}
+
+.barrathird{
+  background-color: red;
+  color: red;
+  margin: 0%;
+  border-radius: 5px;
+  width: 20%;
+}
